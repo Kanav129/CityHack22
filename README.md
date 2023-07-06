@@ -9,6 +9,7 @@
 - Tanush Changani
 - Arnav Kithania
 - Kanav Mehta
+- Aditi Jain
 
 ## Description of the Project (300 words)
 
